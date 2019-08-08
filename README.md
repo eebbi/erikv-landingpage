@@ -1,6 +1,6 @@
 # erikv.fi landing page
 
-<a href="https://www.erikv.fi" target="_blank">erikv.fi</a>
+https://www.erikv.fi
 
 Frontpage of my personal website
 
