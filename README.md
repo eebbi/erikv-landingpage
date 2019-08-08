@@ -13,5 +13,6 @@ TweenMax.js
 
 ---
 
-Screenshot:
+<b>Screenshot:</b>
 
+![screenshot](https://github.com/eebbi/erikv-landingpage/blob/master/erikv-screenshot.png)
