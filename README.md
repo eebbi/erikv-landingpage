@@ -1,7 +1,5 @@
 # erikv.fi landing page
 
-https://www.erikv.fi
-
 Frontpage of my personal website
 
 ---
